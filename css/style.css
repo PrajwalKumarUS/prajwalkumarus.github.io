@@ -873,7 +873,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 36px;
   margin-bottom: 20px;
   line-height: 1.5;
-  font-weight: bold;
+  font-weight: normal;
   color: #000;
 }
 .fh5co-heading p {
