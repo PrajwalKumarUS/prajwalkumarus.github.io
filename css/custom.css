@@ -1,0 +1,22 @@
+.feature-center .icon i{
+    color: #0278ae;
+}
+#fh5co-started{
+    background: #0278ae;
+}
+#fh5co-header h3{
+    color: #e8ffc1;
+}
+#fh5co-header .display-tc h2, #fh5co-counter .display-tc h2, .fh5co-cover .display-tc h2{
+    font-size: 30px;
+}
+#fh5co-header .display-tc .btn, #fh5co-counter .display-tc .btn, .fh5co-cover .display-tc .btn{
+    font-size: 28px;
+}
+@media only screen and (max-width: 600px){
+    #fh5co-header h3{
+        font-size: 18px;
+        margin: 0;
+        line-height: 24px;
+    }
+}
