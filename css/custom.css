@@ -13,10 +13,20 @@
 #fh5co-header .display-tc .btn, #fh5co-counter .display-tc .btn, .fh5co-cover .display-tc .btn{
     font-size: 28px;
 }
+.fh5co-nav #fh5co-logo{
+    max-width: 280px;
+}
+.footer-logo{
+    max-width: 300px;
+    margin-bottom: 1em;
+}
 @media only screen and (max-width: 600px){
     #fh5co-header h3{
         font-size: 18px;
         margin: 0;
         line-height: 24px;
+    }
+    .fh5co-nav #fh5co-logo{
+        max-width: 200px;
     }
 }
