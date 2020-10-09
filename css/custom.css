@@ -20,6 +20,25 @@
     max-width: 300px;
     margin-bottom: 1em;
 }
+.btn-work{
+    padding: 15px 30px;
+    background: #f35f55;
+    color: #fff;
+    border: none !important;
+    font-size: 18px;
+    text-transform: none;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    border-radius: 4px;
+    margin-top: 2em;
+}
+.work-border h4{
+    font-size: 17px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
 @media only screen and (max-width: 600px){
     #fh5co-header h3{
         font-size: 18px;
